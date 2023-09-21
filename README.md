@@ -1,16 +1,12 @@
-# ginee
+# Ginee
 
-A new Flutter project.
+This is a repository for the assignment of Ginee recieved on Cuvette
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To build the project, first clone the repo to your local machine
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the integrated terminal of your IDE, in the directory of the project run
+"flutter pub get"
+and then run,
+"flutter build"
