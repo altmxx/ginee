@@ -1,0 +1,84 @@
+{
+  "results":[
+    {
+      "id":1,
+      "pickUpLocation":"Andher East, Mumbai",
+      "dropOffLocation":"NESCO, Mumbai",
+      "fareAmount":300,
+      "paymentMethod":"UPI",
+      "customerName":"Alam"
+    },
+    {
+      "id": 2,
+      "pickUpLocation": "Dadar West, Mumbai",
+      "dropOffLocation": "Gateway India, Mumbai",
+      "fareAmount": 250,
+      "paymentMethod": "Card",
+      "customerName": "Smitha"
+    },
+    {
+      "id": 3,
+      "pickUpLocation": "Colaba, Mumbai",
+      "dropOffLocation": "Worli Sea Face, Mumbai",
+      "fareAmount": 180,
+      "paymentMethod": "Cash",
+      "customerName": "Rajesh"
+    },
+    {
+      "id": 4,
+      "pickUpLocation": "Malad West, Mumbai",
+      "dropOffLocation": "Infinity Mall, Mumbai",
+      "fareAmount": 400,
+      "paymentMethod": "UPI",
+      "customerName": "Priya"
+    },
+    {
+      "id": 5,
+      "pickUpLocation": "Borivali East, Mumbai",
+      "dropOffLocation": "Goregaon East, Mumbai",
+      "fareAmount": 280,
+      "paymentMethod": "Card",
+      "customerName": "Rahul"
+    },
+    {
+      "id": 6,
+      "pickUpLocation": "Powai, Mumbai",
+      "dropOffLocation": "Airport, Mumbai",
+      "fareAmount": 320,
+      "paymentMethod": "Cash",
+      "customerName": "Neha"
+    },
+    {
+      "id": 7,
+      "pickUpLocation": "Thane West, Mumbai",
+      "dropOffLocation": "Mulund West, Mumbai",
+      "fareAmount": 220,
+      "paymentMethod": "Cash",
+      "customerName": "Amit"
+    },
+    {
+      "id": 8,
+      "pickUpLocation": "Charni Road, Mumbai",
+      "dropOffLocation": "Marine Drive, Mumbai",
+      "fareAmount": 150,
+      "paymentMethod": "UPI",
+      "customerName": "Shreya"
+    },
+    {
+      "id": 9,
+      "pickUpLocation": "Vashi, Mumbai",
+      "dropOffLocation": "CBD Belapur, Mumbai",
+      "fareAmount": 270,
+      "paymentMethod": "Card",
+      "customerName": "Vikram"
+    },
+    {
+      "id": 10,
+      "pickUpLocation": "Wadala, Mumbai",
+      "dropOffLocation": "Sion, Mumbai",
+      "fareAmount": 190,
+      "paymentMethod": "Cash",
+      "customerName": "Rita"
+    }
+  ]
+}
